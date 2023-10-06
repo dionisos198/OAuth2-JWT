@@ -7,6 +7,7 @@
 <li>로그 아웃 처리</li>
 <li>JWT 토큰 처럼 Redis에 저장했는데 이래도 되는지 확인</li>
 <li>디테일 부분 </li>
+<li>response 의 헤더에 넣는 것과 Body에 넣는 것의 장단점</li>
 
 
 <h3>URL 입력</h3>
